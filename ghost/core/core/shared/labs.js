@@ -34,6 +34,7 @@ const BETA_FEATURES = [
 ];
 
 const ALPHA_FEATURES = [
+    'NestPlayground',
     'urlCache',
     'lexicalMultiplayer',
     'websockets',

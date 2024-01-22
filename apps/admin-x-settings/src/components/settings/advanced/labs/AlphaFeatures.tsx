@@ -67,6 +67,10 @@ const features = [{
     title: 'Portal improvements',
     description: 'Adds a bunch of improvements to portal and portal settings',
     flag: 'portalImprovements'
+},{
+    title: 'NestJS Playground',
+    description: 'Wires up the Ghost NestJS App to the Admin API',
+    flag: 'NestPlayground'
 }];
 
 const AlphaFeatures: React.FC = () => {

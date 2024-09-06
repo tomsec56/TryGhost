@@ -27,8 +27,8 @@
   "dependencies": {
     "@tryghost/domain-events": "0.0.0",
     "@tryghost/errors": "1.2.26",
-    "@tryghost/logging": "2.4.8",
+    "@tryghost/logging": "2.4.16",
     "@tryghost/member-events": "0.0.0",
-    "moment-timezone": "0.5.34"
+    "moment-timezone": "0.5.41"
   }
 }

@@ -86,10 +86,10 @@
     "@tryghost/admin-x-design-system": "0.0.0",
     "@types/react": "18.2.48",
     "@types/react-dom": "18.2.18",
-    "@vitejs/plugin-react": "4.2.1",
+    "@vitejs/plugin-react": "4.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "vite": "4.5.2",
+    "vite": "4.5.13",
     "vite-plugin-css-injected-by-js": "^3.3.0",
     "vite-plugin-svgr": "3.3.0",
     "vitest": "0.34.3"

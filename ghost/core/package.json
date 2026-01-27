@@ -201,7 +201,7 @@
     "knex": "2.4.2",
     "knex-migrator": "5.1.7",
     "lib0": "0.2.88",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "luxon": "3.4.4",
     "moment": "2.24.0",
     "moment-timezone": "0.5.23",

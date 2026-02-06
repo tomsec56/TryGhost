@@ -29,7 +29,7 @@
     "@tryghost/promise": "0.3.6",
     "@tryghost/tpl": "0.1.26",
     "@tryghost/validator": "0.2.6",
-    "jsonpath": "1.1.1",
+    "jsonpath": "1.2.0",
     "lodash": "4.17.21"
   }
 }
